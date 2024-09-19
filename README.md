@@ -47,8 +47,8 @@ To use the Elayane Weather Forecast App, you need an API key from OpenWeatherMap
 5) Check the graphical representations of temperature variations.
 
 # Screenshots
-Main Interface: Shows the weather details and forecast with background images and icons.
-Graphical Representation: Line and bar charts showing temperature variations over time.
+**Main Interface:** Shows the weather details and forecast with background images and icons.
+**Graphical Representation:**Line and bar charts showing temperature variations over time.
 
 # Error Handling
 The app handles errors like incorrect city names or network issues by displaying user-friendly error messages.
