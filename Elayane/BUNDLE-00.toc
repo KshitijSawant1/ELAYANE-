@@ -1,0 +1,3 @@
+([('Elayane',
+   '/Users/kshitijksawant/Programs/Python Project Weather Forcast/dist/Elayane',
+   'EXECUTABLE')],)
